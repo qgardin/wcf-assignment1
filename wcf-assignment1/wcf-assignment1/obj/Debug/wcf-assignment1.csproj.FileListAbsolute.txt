@@ -1,0 +1,7 @@
+D:\Docs\School\DistributedApplications\Assignment01\wcf-assignment1\wcf-assignment1\wcf-assignment1\bin\wcf-assignment1.dll.config
+D:\Docs\School\DistributedApplications\Assignment01\wcf-assignment1\wcf-assignment1\wcf-assignment1\bin\wcf-assignment1.dll
+D:\Docs\School\DistributedApplications\Assignment01\wcf-assignment1\wcf-assignment1\wcf-assignment1\bin\wcf-assignment1.pdb
+D:\Docs\School\DistributedApplications\Assignment01\wcf-assignment1\wcf-assignment1\wcf-assignment1\obj\Debug\wcf-assignment1.csproj.AssemblyReference.cache
+D:\Docs\School\DistributedApplications\Assignment01\wcf-assignment1\wcf-assignment1\wcf-assignment1\obj\Debug\wcf-assignment1.csproj.CoreCompileInputs.cache
+D:\Docs\School\DistributedApplications\Assignment01\wcf-assignment1\wcf-assignment1\wcf-assignment1\obj\Debug\wcf-assignment1.dll
+D:\Docs\School\DistributedApplications\Assignment01\wcf-assignment1\wcf-assignment1\wcf-assignment1\obj\Debug\wcf-assignment1.pdb
